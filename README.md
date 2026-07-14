@@ -36,3 +36,6 @@ npm run dev
 ## Author
 
 Yash Kapoor 
+## Status
+
+Project setup completed as part of the FlyRank Frontend AI Engineering Internship.
